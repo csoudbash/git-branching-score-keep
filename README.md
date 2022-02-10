@@ -26,7 +26,7 @@ The client finally got back to us with answers to our questions. We can now make
 
 - [x] **feature-team-names** - Team names have been assigned, they should read **Team Tomato** and **Team Plum**
    - After adding and committing, merge this branch back to `master`
-- [ ] **feature-page-title** - The title of the page should read **Battle of the Fruits**
+- [] **feature-page-title** - The title of the page should read **Battle of the Fruits**
    - After adding and committing, merge this branch back to `master`
 - [ ] **feature-bg-colors** - The team divs (with classes `.team1` & `.team2`) should have background colors that match the team names
    - After adding and committing, merge this branch back to `master`
@@ -42,7 +42,7 @@ When everything is merged back into the **master** branch, push up your complete
 Make sure you have checked out **master**
 
 > `$ git checkout master`
-
+`
 Then push:
 
 > `$ git push origin master`
