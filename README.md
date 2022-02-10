@@ -42,7 +42,7 @@ When everything is merged back into the **master** branch, push up your complete
 Make sure you have checked out **master**
 
 > `$ git checkout master`
-
+`
 Then push:
 
 > `$ git push origin master`
